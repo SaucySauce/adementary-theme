@@ -1,3 +1,7 @@
+**Cougar
+
+I want to give Adementary a mild nostalgic look to those who remember the early 00s world of computer fashion. I am an Ed of the Morty kind, I will fail.
+
 Adementary
 ======
 Adementary is a theme for GNOME/Budgie/Xfce/Cinnamon desktop with elementary-ish aesthetics.
